@@ -14,4 +14,4 @@ Data Source from 한국축산데이터
 
 Reference from</br>
 "A Simple Framework for Contrastive Learning of Visual Representations" by Chen et al.(2020)</br>
-한국축산 데이터 used 3,000 imaged for each grade(3, 2, 1, 1+, 1++)
+한국축산 데이터 used 3,000 images for each grade(3, 2, 1, 1+, 1++)
